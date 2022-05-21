@@ -5,7 +5,7 @@ A website for buying various products.
 Home.jsx is the landing page, where user can see various product and new user can register there self. 
 
 
-<img src="M-E.png" alt="image" />
+<img src="ApnaShop.png" alt="image" />
 
 Live view : <a href="https://apnashop-o9n8pzxho-mehtaanand35.vercel.app/">ApnaShop</a>
 
